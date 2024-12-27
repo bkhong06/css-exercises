@@ -1,4 +1,4 @@
-p {
+.pink {
     background-color: rgb(247, 121, 142);
     font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
 }
@@ -7,12 +7,12 @@ p {
     font-size: 24px; 
 }
 
-.sec {
+#sec {
     color: blue;
     font-size: 36px; 
 }
 
-.fou {
+#fou {
     background-color: greenyellow;
     font-size: 24px;
     font-weight: bold; 
