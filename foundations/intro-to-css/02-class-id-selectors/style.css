@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(247, 121, 142);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.thi {
+    font-size: 24px; 
+}
+
+.sec {
+    color: blue;
+    font-size: 36px; 
+}
+
+.fou {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold; 
+}
